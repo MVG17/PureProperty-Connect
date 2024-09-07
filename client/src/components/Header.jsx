@@ -5,8 +5,8 @@ import { useEffect, useState } from "react";
 
 const Header = () => {
   const { currentUser } = useSelector((state) => state.user);
-  const [searchTerm, setSearchTerm] = useState("");
   const navigate = useNavigate();
+  const [searchTerm, setSearchTerm] = useState("");
 
   const handleSubmit = (e) => {
 
@@ -42,7 +42,8 @@ const Header = () => {
             placeholder="serach..."
             className="bg-transparent  focus:outline-none w-24 sm:w-64"
           />
-          <FaSearch className="text-slate-600" />
+          
+          <button onClick={handleSubmit}><FaSearch className="text-slate-600" /></button>
         </form>
         <ul className="flex gap-4">
           <Link to="/">

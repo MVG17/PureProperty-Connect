@@ -97,8 +97,7 @@ export const getListings = async (req, res, next) => {
       name: { $regex: searchTerm, $options: "i" },
       offer,
       furnished,
-      type,
-      // parking,
+      type
     })
       .sort({ [sort]: order })
       .limit(limit)
