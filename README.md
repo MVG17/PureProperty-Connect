@@ -19,7 +19,6 @@ Property Editing and Deletion: Users with multiple listings can edit or delete s
 # Screenshot:
 ![Screenshot 2024-09-08 044730](https://github.com/user-attachments/assets/edd34b85-4840-4c66-8ec5-eef06aa630fe)
 ![Screenshot 2024-09-08 044945](https://github.com/user-attachments/assets/3d106c0b-edae-4d34-a846-595d30f78c31)
-![Screenshot 2024-09-08 045028](https://github.com/user-attachments/assets/f508c4dc-0c61-47e9-ba2e-6929d29cfd14)
 ![Screenshot 2024-09-08 045120](https://github.com/user-attachments/assets/64021260-02a6-4563-9f7f-812b922efa46)
 ![Screenshot 2024-09-08 045148](https://github.com/user-attachments/assets/b63e0c9c-b296-4c86-9b56-13bf17d623b2)
 ![Screenshot 2024-09-08 045218](https://github.com/user-attachments/assets/716aa3de-9531-4c64-906c-0705716e914f)
